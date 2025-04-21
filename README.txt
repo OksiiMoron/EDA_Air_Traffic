@@ -1,4 +1,4 @@
-EDA of Europe's air traffic data, gotten from >
+EDA of Europe's air traffic data, obtained from >
 https://www.kaggle.com/datasets/samithsachidanandan/air-traffic-in-europe-from-2016-to-2024/data
 
 # ✈️ European Air Traffic Analysis (2016–2024)
@@ -9,8 +9,16 @@ This project is a Python-based exploratory data analysis (EDA) of European air t
 
 ## 📁 Files Included
 
-- `data/` — Contains raw CSV files from 2016 to 2024
-- `eda_flight_data.ipynb` — Jupyter notebook with all analysis and visualizations
+- `airport_traffic_2016.csv` — Contains raw data from 2016
+- `airport_traffic_2017.csv` — Contains raw data from 2017
+- `airport_traffic_2018.csv` — Contains raw data from 2018
+- `airport_traffic_2019.csv` — Contains raw data from 2019
+- `airport_traffic_2020.csv` — Contains raw data from 2020
+- `airport_traffic_2021.csv` — Contains raw data from 2021
+- `airport_traffic_2022.csv` — Contains raw data from 2022
+- `airport_traffic_2023.csv` — Contains raw data from 2023
+- `airport_traffic_2024.csv` — Contains raw data from 2024
+- `script1 - airport_traffic_analasys.ipynb` — Jupyter notebook with all analysis and visualizations
 - `README.md` — Project overview and instructions
 
 ---
